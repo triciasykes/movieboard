@@ -20,6 +20,7 @@ class Main extends Component {
         <h1>
           <Link to ="/">Movie Board</Link>
         </h1>
+        <h2>A place to post your favorite movies and comment on others' recommendations.</h2>
         <Route exact path = "/" render={()=> (
           <div>
 
