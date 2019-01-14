@@ -36,9 +36,9 @@ h2 {
   font-size: 4.5em;
   font-family: sans-serif;
 }
-body {
- background: offwhite;
-}
+
+
+
 .photoGrid {
  display: flex;
  flex-wrap: wrap;
@@ -102,7 +102,7 @@ body {
 .comment-form textarea {
  width: 100%;
  border: 0;
- font-size: 1.3rem;
+ font-size: 3rem;
  padding: 1rem 0;
  border-bottom: 1px solid #d3d3d3;
  outline: none;
